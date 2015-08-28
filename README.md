@@ -1,5 +1,6 @@
 # gpg public key
 
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v2
 
@@ -52,3 +53,4 @@ LvAcT2a5OO6148GF8dElWzf7c7nOdgVn0CVUiwn7Yn5JuOkZMiO8hpzb/Fw1TnvF
 XCo9Z9hiOXMw
 =hQMA
 -----END PGP PUBLIC KEY BLOCK-----
+```
